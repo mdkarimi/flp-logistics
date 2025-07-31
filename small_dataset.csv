@@ -1,0 +1,12 @@
+parameter,lower,most_likely,upper
+casualties,100,150,200
+kits_coeff,0.9,1.0,1.1
+personnel_coeff,1.8,2.0,2.2
+utility_kits,0.8,1.0,1.2
+utility_personnel,0.4,0.6,0.8
+kits_available,30,30,30
+personnel_available,15,15,15
+node1,node2,weight_lower,weight_most_likely,weight_upper
+1,2,10,15,20
+2,3,12,18,24
+3,4,8,12,16
